@@ -2,7 +2,7 @@
 The Tarjan algorithm based Topological sorting algorithm. 
 Only use Numpy. 
 
- Parameter
+    Parameter
     -----
     g: the adjacency matrix of a graph, store as a two-dim n*n numpy.array.
     The first dim means the source and the second dim means the target.
